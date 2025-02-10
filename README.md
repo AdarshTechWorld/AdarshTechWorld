@@ -5,7 +5,7 @@
 
 Frontend : HTML,CSS,Javascript
 
-Backend : Python 
+Backend : Python,Postgres 
 
 Database : MySQL
 
