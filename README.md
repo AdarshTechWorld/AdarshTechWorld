@@ -1,37 +1,42 @@
-👨‍💻 Full Stack Developer
+👨‍💻 Hey, I'm Adarsh Verma
+Full Stack Developer | Problem Solver | Tech Explorer
 
-Hi! I'm Adarsh Verma, a passionate Full Stack Developer dedicated to building scalable, secure, and user-friendly applications.
+I’m a passionate Full Stack Developer who loves turning ideas into real-world digital products.
+I enjoy working across the full web development cycle — from planning and architecture, to databases, APIs, and beautiful user experiences.
+Focused on writing clean, efficient, and scalable code.
 
-🚀 Tech Stack
+💡 About Me
 
-Frontend:
+🔥 Strong curiosity to learn new technologies
+🚀 Always improving performance and user experience
+🧠 Love solving complex problems with simple solutions
+🤝 Open to collaboration on exciting tech projects
+🎯 Goal: Become a top-tier developer and build impactful products
 
-HTML, CSS, JavaScript
+🛠️ Tech Stack & Tools
+#  Frontend Development
+    HTML, CSS, JavaScript
+    React.js, Next.js
+    Bootstrap, Responsive UI Design
 
-React.js, Next.js
+# Backend Devel
+    Python (Django Framework)
+    REST API Development
 
-Bootstrap
+Authentication & Authorization (JWT / Sessions)
 
-Backend:
+# Databases
+    PostgreSQL
+    MySQL
 
-Python, Django
+# Tools & Others
+    Git & GitHub
+    VS Code
+    n8n Workflow
 
-Database:
-
-MySQL, PostgreSQL
-
-🧩 Additional Skills
-
-REST APIs
-
-Version Control (Git & GitHub)
-
-Responsive UI Design
-
-Deployment & Hosting
-
-🌐 Languages
-
-English
-
-Hindi
+📊 What I Build
+    Full-stack Web Applications
+    Scalable API-based Projects
+    Admin Panels & Dashboards
+    Dynamic UI Web Apps
+    Database-driven Business Solutions
