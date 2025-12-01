@@ -1,19 +1,37 @@
-### FULL STACK DEVELOPER 
+👨‍💻 Full Stack Developer
 
+Hi! I'm Adarsh Verma, a passionate Full Stack Developer dedicated to building scalable, secure, and user-friendly applications.
 
-**AdarshTechWorld/AdarshTechWorld**.
+🚀 Tech Stack
 
-Frontend : HTML,CSS,Javascript
+Frontend:
 
-Backend : Python,Postgres 
+HTML, CSS, JavaScript
 
-Database : MySQL
+React.js, Next.js
 
-Framework : Django,Bootstrap
+Bootstrap
 
-Library : Reactjs
+Backend:
 
-Languages : English,Hindi
+Python, Django
 
+Database:
 
+MySQL, PostgreSQL
 
+🧩 Additional Skills
+
+REST APIs
+
+Version Control (Git & GitHub)
+
+Responsive UI Design
+
+Deployment & Hosting
+
+🌐 Languages
+
+English
+
+Hindi
