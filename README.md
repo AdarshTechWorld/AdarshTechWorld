@@ -19,7 +19,7 @@ Focused on writing clean, efficient, and scalable code.
     React.js, Next.js
     Bootstrap, Responsive UI Design
 
-# Backend Devel
+# Backend Development
     Python (Django Framework)
     REST API Development
 
