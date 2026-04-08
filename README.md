@@ -28,6 +28,7 @@ Authentication & Authorization (JWT / Sessions)
 # Databases
     PostgreSQL
     MySQL
+    Mongo DB
 
 # Tools & Others
     Git & GitHub
